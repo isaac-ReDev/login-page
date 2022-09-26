@@ -1,8 +1,7 @@
-import { useState } from 'react'
 import { LogIn } from './Components/LogIn'
 import './App.css'
 
-function App() {
+const App = () => {
 
   return (
     <div className="App">
